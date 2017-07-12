@@ -17,4 +17,5 @@ If there are, an message will show that order has been placed successfully, with
 If there are not enough inventory, the program will show the current inventory amount with notification that order has not been processed and prompt to restart the ordering process.
 
 
+![alt text](demo.png)
 
